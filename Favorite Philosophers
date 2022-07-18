@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Favorite Philosophers</title>
+</head>
+<body>
+<h3>My Favorite Philosophers</h3>
+
+  <ul>
+    <ol>
+    <li>
+      Plato
+    </li>
+    <img src="image/Plato.png"><br />
+    <li>
+      Rene Descartes
+    </li>
+    <img src="image/Descartes.png"><br />
+    <li>
+      Spinoza
+    </li>
+    <img src="image/Spinoza.png"><br />
+    <li>Arthur Schopenhauer</li>
+    <img src="image/Schopenhauer.png"><br />
+    <li>
+      Friedrich Nietzsche
+    </li>
+    <img src="image/Nietzsche.png">
+  </ol>
+  </ul>
+  <hr noshade>
+  <a href="index.html">Return to the Palace</a>
+  </body>
+</html>
